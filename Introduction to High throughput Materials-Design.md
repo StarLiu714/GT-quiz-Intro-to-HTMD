@@ -1,6 +1,6 @@
-#Introduction to High-Throughput Materials Development
+# Introduction to High-Throughput Materials Development
 
-##Introduction
+## Introduction
 
 1.	**Nanoscale and microscale design differ fundamentally in the following way:**
 
@@ -204,7 +204,7 @@ Experimental library
 
 
  
-##Library Preparation
+## Library Preparation
 1.	**Co-deposition of thin films can be accomplished by using:**
 
 Sputtering
@@ -393,7 +393,7 @@ Temperature
 
 
  
-##Characterization of Composition and Structure
+## Characterization of Composition and Structure
 1.	**Which of the following concepts are related to control of materials structure?**
 
 Molecular bonding
@@ -514,7 +514,7 @@ Faster acquisition time per each sampling volume
 
 
  
-##High-Throughput Property Measurements
+## High-Throughput Property Measurements
 1.	**Which of the following are defined as material optical properties that are of interest for applications of HTMD?**
 
 Light absorption
@@ -679,7 +679,7 @@ Can only obtain quantifiable fracture toughness values when the material is rela
 False
 
  
-##Polymers for Proton Exchange Membranes in Fuel Cells
+## Polymers for Proton Exchange Membranes in Fuel Cells
 1.	**What is the function of the proton exchange membrane in fuel cells?**
 
 Fuel resistant, chemically inert
@@ -721,7 +721,7 @@ Higher crystallinity of inert polymer exhibited higher conductivity.
 Lower viscosity of inert polymer showed lower conductivity.
 
  
-##Structural Alloys for Energy and Transport
+## Structural Alloys for Energy and Transport
 1.	**What strengthening mechanism is generally most effective in producing alloys capable of withstanding high temperatures?** 
 
 Work Hardening
@@ -835,7 +835,7 @@ Calculation of the number of possible combinations of elements
 
 
  
-##Exploration of PSP Linkages in Dual Phase Steel
+## Exploration of PSP Linkages in Dual Phase Steel
 1.	**Which statement is true?**
 
 Different processing paths result in different microstructures and final properties because processing, structure, and properties are interconnected.
