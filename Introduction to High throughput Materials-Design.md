@@ -1,11 +1,17 @@
 #Introduction to High-Throughput Materials Development
 
 ##Introduction
+
 1.	**Nanoscale and microscale design differ fundamentally in the following way: **
+
 Nanoscale design is typically more heavily directed towards devices
+
 Hierarchy of material structure is more pronounced at the nanoscale
+
 Microscale simulations are directed at lower length and time scales
+
 One can be supported using first principles and atomistic modeling
+
 
 2.	**Which is more closely related to high-throughput computational screening? **
 Combinatorial search for candidate Li ion battery electrode materials
