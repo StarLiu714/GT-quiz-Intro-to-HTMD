@@ -450,46 +450,46 @@ Size of each element
 Mass fraction of each element b
 
 9.	The likely best step to evaluate the oxidation resistance in the HTMD strategy for high temperature alloy development is:
-Step 1: Identify palette of elements.
-Step 2: Screen using high-throughput computational calculations.
-Step 3: Generate alloy libraries with composition gradients, characterize, and screen.
-Step 4: Generate alloy libraries with microstructure gradients, characterize, and screen.
+-Step 1: Identify palette of elements.
+-Step 2: Screen using high-throughput computational calculations.
+-Step 3: Generate alloy libraries with composition gradients, characterize, and screen.
+-Step 4: Generate alloy libraries with microstructure gradients, characterize, and screen.
 
 10.	Examples of high-throughput computational calculations used for screening include:
-Calculation of the lowest temperature that gives a single phase solid solution
-Calculation of Gibb's free energy for compound formation
-Calculation of the crystal structure
-Calculation of elastic modulus
-Calculation of density
-Calculation of the number of possible combinations of elements
+-Calculation of the lowest temperature that gives a single phase solid solution
+-Calculation of Gibb's free energy for compound formation
+-Calculation of the crystal structure
+-Calculation of elastic modulus
+-Calculation of density
+-Calculation of the number of possible combinations of elements
 
  
 ##Exploration of PSP Linkages in Dual Phase Steel
 1.	Which statement is true?
-Different processing paths result in different microstructures and final properties because processing, structure, and properties are interconnected.
-Different processing paths do not always change the microstructure but can result in different properties.
+-Different processing paths result in different microstructures and final properties because processing, structure, and properties are interconnected.
+-Different processing paths do not always change the microstructure but can result in different properties.
 
 2.	In the HT indentation testing, spherical indenter was used instead of a sharp indentation because (select all correct answers):
-An indentation stress-strain curve can be obtained that includes elastic modulus, yield strength, and hardening rate.
-The dual phase steel is brittle and use of sharp indenters would have caused cracking.
-An indentation yield strength can be obtained which tends to be more sensitive to the heat treatment process.
+-An indentation stress-strain curve can be obtained that includes elastic modulus, yield strength, and hardening rate.
+-The dual phase steel is brittle and use of sharp indenters would have caused cracking.
+-An indentation yield strength can be obtained which tends to be more sensitive to the heat treatment process.
 
 3.	Which are true statements regarding indentation measurement on the dual phase steel considered in this case study?
-Bake hardening improves strength of dual phase steel.
-The higher amount of martensite as a hard phase improves strength of dual phase steel.
-Strength is the only property of dual phase steel that can be measured from indentation.
-It is a sensitive test that can capture changes in properties of the steel with different amounts of martensite and cold work.
+-Bake hardening improves strength of dual phase steel.
+-The higher amount of martensite as a hard phase improves strength of dual phase steel.
+-Strength is the only property of dual phase steel that can be measured from indentation.
+-It is a sensitive test that can capture changes in properties of the steel with different amounts of martensite and cold work.
 
 4.	Choose the statements that are true for high-throughput prototyping protocols:
-Accelerating development of a material system requires more effort to achieve the answer.
-Material libraries that have a gradient of processing conditions can be easily assayed using indentation testing since the probed material in this technique is very small and multiple tests can be carried out along the gradient.
-High-throughput prototyping goals are minimizing the effort and material in both mechanical testing and microstructure characterization.
+-Accelerating development of a material system requires more effort to achieve the answer.
+-Material libraries that have a gradient of processing conditions can be easily assayed using indentation testing since the probed material in this technique is very small and multiple tests can be carried out along the gradient.
+-High-throughput prototyping goals are minimizing the effort and material in both mechanical testing and microstructure characterization.
 
 5.	In this case study, the first two PCs, PC1 and PC2, correlated well to (select all correct answers):
-intercritical annealing temperature
-amount of plastic deformation (cold work)
-temperature of bake hardening
-time of bake hardening
+-intercritical annealing temperature
+-amount of plastic deformation (cold work)
+-temperature of bake hardening
+-time of bake hardening
 
 
 
