@@ -10,7 +10,7 @@ Hierarchy of material structure is more pronounced at the nanoscale
 
 Microscale simulations are directed at lower length and time scales
 
-One can be supported using first principles and atomistic modeling
+**One can be supported using first principles and atomistic modeling**
 
 1. **Which is more closely related to high-throughput computational screening?**
 
